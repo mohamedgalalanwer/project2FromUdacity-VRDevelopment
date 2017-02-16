@@ -3,7 +3,7 @@ my project2 from udacity in VRdevelopment
 my project 2 
 do
 1-adding 3d model to ascene
-2-moving -scaling-rotation3d model
+2-moving -scaling-rotation3d models
 3-deploying my Cardboard Viewer
 4-creating matrial and assign texture
 5-creating anmition and trigger them
