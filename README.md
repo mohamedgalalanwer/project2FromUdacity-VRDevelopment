@@ -16,10 +16,13 @@ do
 See my project in the link
 https://review.udacity.com/#!/reviews/371640/shared
 
+==========================================================================================================================================
 
-Welcome to the project2FromUdacity-VRDevelopment wiki!
+Welcome to the project2FromUdacity-VRDevelopment 
 
 this project learn me 1-adding 3d model to ascene 2-moving -scaling-rotation3d model 3-deploying my Cardboard Viewer 4-creating matrial and assign texture 5-creating anmition and trigger them 6-creating lights and bake them 7-aptimizing a scene for top performance
+
+
 ==========================================================================================================================================
 u can install this project 1-open the zip file 2-open unity engine 3-add GoogleVR Unity SDK (v 1.0.3) 4-run the app and see
 
